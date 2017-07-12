@@ -1,0 +1,24 @@
+{
+  "name": "WiFi-Shredder",
+  "version": "1.0.0",
+  "description": "An art project exhibited at Microwave Festival Hong Kong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manorius/WiFi-Shredder.git"
+  },
+  "keywords": [
+    "node",
+    "printing",
+    "ASCII"
+  ],
+  "author": "Manolis Perrakis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manorius/WiFi-Shredder/issues"
+  },
+  "homepage": "https://github.com/manorius/WiFi-Shredder#readme"
+}
