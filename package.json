@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/manorius/WiFi-Shredder/issues"
   },
-  "homepage": "https://github.com/manorius/WiFi-Shredder#readme"
+  "homepage": "https://github.com/manorius/WiFi-Shredder#readme",
+  "dependencies": {
+    "body-parser": "1.14.1",
+    "express": "4.13.3",
+    "johnny-five": "^0.9.1",
+    "printer": "0.2.1",
+    "util": "0.10.3"
+  }
 }
